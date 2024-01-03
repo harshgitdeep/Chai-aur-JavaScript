@@ -1,0 +1,1 @@
+Starting the journey of learning javascript from scratch. I've always struggled to learn the core concepts of javascript. Today, while searching for some good resources to learn js, I came across this YouTube channel named Chai aur code. 
