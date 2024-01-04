@@ -1,8 +1,9 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
+const accountId = 144553                 // can't be changed 
+let accountEmail = "hitesh@google.com"  
 var accountPassword = "12345"
 accountCity = "Jaipur"
-let accountState;
+let accountState; //undefined 
+
 
 // accountId = 2 // not allowed
 
