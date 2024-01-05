@@ -15,7 +15,7 @@ let state;
 
 //  PRIMITIVE DATATYPES 
 
-// number => 2 to power 53
+// number => 2 to power 53  
 // bigint
 // string => ""
 // boolean => true/false
